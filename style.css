@@ -17,14 +17,19 @@ body
     border: 1px solid white;
 }
 .footer{
-    background-color: gray;
+    background-color: grey;
+    width: 100%;
+    margin-bottom: 0px;
     color: white;
     line-height: 2;
-    margin-bottom: 0px;
     bottom: 0px;
-    position: sticky; 
-    width: 100%; 
+    position: sticky;
 }
 .modal-body{
     text-align: left;
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid white;
 }
